@@ -1,3 +1,5 @@
 title: "arawind-s Blog"
-description: "Cybersecurity"
+description: "Cybersecurity and TryHackMe writeups."
 theme: minima
+minima:
+  skin: dark
