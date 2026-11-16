@@ -9,4 +9,4 @@ Cybersecurity notes, penetration testing writeups, and CTF walkthroughs.
 
 ## Writeups
 
-* **[Active Directory Walkthrough](./active-directory)** — Complete enumeration and exploitation breakdown.
+* **[Active Directory Walkthrough](./writeups/active-directory)** — Complete enumeration and exploitation breakdown.
