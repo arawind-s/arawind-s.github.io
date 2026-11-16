@@ -1,0 +1,30 @@
+---
+---
+
+@import "minima";
+
+/* Custom tweaks for clean hacker theme */
+body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #2a2a2a;
+  background-color: #181818;
+}
+
+.site-title, .site-nav .page-link {
+  color: #ffffff !important;
+}
+
+pre, code {
+  background-color: #1e1e1e !important;
+  border: 1px solid #333333 !important;
+  color: #ce9178 !important;
+}
+
+h1, h2, h3, h4 {
+  color: #ffffff !important;
+}
