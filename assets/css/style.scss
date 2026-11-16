@@ -3,14 +3,12 @@
 
 @import "minima";
 
-/* Custom tweaks for clean hacker theme */
 body {
   background-color: #121212 !important;
   color: #e0e0e0 !important;
 }
 
 .site-header {
-  border-top: none;
   border-bottom: 1px solid #2a2a2a;
   background-color: #181818;
 }
@@ -25,6 +23,10 @@ pre, code {
   color: #ce9178 !important;
 }
 
-h1, h2, h3, h4 {
-  color: #ffffff !important;
+h1, h2, h3, h4, p, li {
+  color: #e0e0e0 !important;
+}
+
+a {
+  color: #58a6ff !important;
 }
